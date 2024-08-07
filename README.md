@@ -1,6 +1,6 @@
 # 📊 E-commerce Data Analysis Project
 
-![E-commerce](E-commerce.jpg)
+- <img src="https://github.com/VIJAY626404/SQL-Python-Ecommerce-Project/blob/main/E-commerce.jpg" alt="Output Example" width="900"/>
 
 ## 📝 Overview
 
