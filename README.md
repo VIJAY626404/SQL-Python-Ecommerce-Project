@@ -52,8 +52,9 @@ To run this project, you'll need:
 - Data Visualization: Leveraging seaborn and matplotlib to create insightful visualizations.
 - Database Integration: Storing transformed data in MySQL for robust and scalable data management.
 
-#📈 Results
+#📈 Results and Insights
 - Our analysis sheds light on key metrics such as sales trends, customer demographics, and product performance, enabling data-driven decision-making.
+- For a detailed analysis and insights, refer to the [Ecommerce Data Analysis Project.pdf](Ecommerce%Data%Analysis%Project.pdf). This document provides a comprehensive overview of the findings, including charts and detailed explanations of the SQL queries and their results.
 
 # 🚀 Future Work
 - Potential future enhancements include:
