@@ -54,8 +54,8 @@ To run this project, you'll need:
 
 #📈 Results and Insights
 - Our analysis sheds light on key metrics such as sales trends, customer demographics, and product performance, enabling data-driven decision-making.
-- For a detailed analysis and insights, refer to the [Ecommerce Data Analysis Project.pdf](Ecommerce%Data%Analysis%Project.pdf). This document provides a comprehensive overview of the findings, including charts and detailed explanations of the SQL queries and their results.
-
+- For a detailed analysis and insights, refer to the [Ecommerce Data Analysis Project.pdf](Ecommerce%20Data%20Analysis%20Project.pdf). This document provides a comprehensive overview of the findings, including charts and detailed explanations of the SQL queries and their results.
+  
 # 🚀 Future Work
 - Potential future enhancements include:
 
